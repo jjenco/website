@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 3
+title: Tunneling Field-Effect Transistors
 description: a project that redirects to another website
 img:
 redirect: https://unsplash.com

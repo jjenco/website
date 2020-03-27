@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 4
+title: Giant Optical Nonlinearities in III-Nitride Heterostructures
 description: another without an image
 img:
 ---

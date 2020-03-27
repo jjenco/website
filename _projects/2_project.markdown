@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 2
+title: Resonant Tunneling Oscillators
 description: a project with a background image
 img: /assets/img/2.jpg
 ---
