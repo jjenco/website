@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Giant Optical Nonlinearities in III-Nitride Heterostructures
-description: another without an image
+title: <br> <br> Engineering Optical Nonlinearities in III-Nitride Heterostructures
+description: >
 img:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resonant Tunneling Oscillators
-description: a project with a background image
+title: <h6 class="author"> <br><br><br><br> </h6> <h1 class="thumbnail">III-Nitride Resonant Tunneling Oscillators</h1>
+description: >
 img: /assets/img/2.jpg
 ---
 
