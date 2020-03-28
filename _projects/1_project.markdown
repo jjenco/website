@@ -1,8 +1,9 @@
 ---
 layout: page
-title: <br> <br> Resonant Tunneling Transport in Polar Heterostructures
-description: >
-img: /assets/img/12.jpg
+title: Resonant Tunneling Transport in Polar Heterostructures
+description: <br> <br> <br>
+img: /assets/img/RTD_v2.png
+selfdirect: >
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
@@ -41,15 +42,4 @@ You can also put regular text between your rows of images. Say you wanted to wri
 </div>
 <div class="col three caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
 </div>
