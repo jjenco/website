@@ -2,7 +2,7 @@
 layout: page
 title: III-Nitride Interband Tunneling Field-Effect Transistors
 description: <br><br><br>
-img: /assets/img/TFET_v3.png
+img: /assets/img/TFET_vfinal.png
 selfdirect: >
 ---
 

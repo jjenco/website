@@ -2,7 +2,7 @@
 layout: page
 title: III-Nitride Resonant Tunneling Oscillators
 description: <br><br><br>
-img: /assets/img/OSC_v2.png
+img: /assets/img/OSC_vfinal.png
 selfdirect: >
 ---
 

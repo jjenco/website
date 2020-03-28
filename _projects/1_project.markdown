@@ -2,7 +2,7 @@
 layout: page
 title: Resonant Tunneling Transport in Polar Heterostructures
 description: <br> <br> <br>
-img: /assets/img/RTD_v2.png
+img: /assets/img/RTD_vfinal.png
 selfdirect: >
 ---
 

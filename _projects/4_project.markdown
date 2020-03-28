@@ -2,7 +2,7 @@
 layout: page
 title: Engineering Optical Nonlinearities in III-Nitride Heterostructures
 description: <br> <br> <br>
-img: /assets/img/SeqT_v5.png
+img: /assets/img/SeqT_vfinal.png
 redirect: https://www.ccmr.cornell.edu/research/irg2/
 ---
 

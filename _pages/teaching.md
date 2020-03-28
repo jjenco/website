@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 ---
-I have thought the following courses.
+I have thought the following courses:
 
 #### The University of Notre Dame
 

@@ -2,8 +2,9 @@
 layout: page
 title: Research
 permalink: /projects/
-description: My current research interests can be grouped in the following topics.
+#description:
 ---
+My current research interests can be grouped in the following topics:
 
 {% for project in site.projects %}
 
