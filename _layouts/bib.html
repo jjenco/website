@@ -50,9 +50,11 @@
 
     <span class="periodical">
     {% if entry.type == "article" %}
-      <em>{{entry.journal}}</em>
+      <em>{{entry.citation}}</em>
     {% elsif entry.type == "inproceedings" %}
-      <em>In {{entry.booktitle}}</em>
+      <em>In {{entry.citation}}</em>
+    {% elsif entry.type == "book" %}
+      <em>In {{entry.citation}}</em>
     {% endif %}
     {% if entry.year %}
       ({{entry.year}})
