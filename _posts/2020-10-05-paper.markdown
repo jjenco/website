@@ -1,0 +1,7 @@
+---
+layout: post
+title: Nitrogen-polar III-Nitride Resonant Tunneling Diodes!
+date: 2020-10-05 10:00:00-0500
+description: We report, in <i>Applied Physics Letters</i>, the first demonstration of resonant tunneling diodes grown along the nitrogen-polar direction!
+---
+Our paper on Nitrogen-polar resonant tunneling diodes has been published in _Applied Physics Letters_! [<a href="https://aip.scitation.org/doi/full/10.1063/5.0022143" target="\_blank">DOI</a>] [<a href="{{ '20201005_APL_N_polar_RTDs.pdf' | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="\_blank">PDF</a>].

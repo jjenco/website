@@ -120,3 +120,11 @@ Style improvements and bug fixes are especially welcome.
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## How to update webpage
+
+  1. Perform the edits
+  2. Build and serve the site locally:
+    >>>> bundle exec jekyll serve
+  3. When you are happy, deploy the website online:
+    >>>>
