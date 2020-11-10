@@ -125,6 +125,10 @@ The theme is available as open source under the terms of the [MIT License](https
 
   1. Perform the edits
   2. Build and serve the site locally:
-    >>>> bundle exec jekyll serve
-  3. When you are happy, deploy the website online:
-    >>>>
+    $ >> bundle exec jekyll serve
+  3. Stage, Commit and push changes:
+    $ >> git add -A
+    $ >> git commit -m "message"
+    $ >> git push
+  3. Deploy the website online:
+    $ >> ./bin/deploy
